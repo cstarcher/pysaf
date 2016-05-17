@@ -3,8 +3,6 @@ PySAF is an application for creating [Simple Archive Format](https://wiki.durasp
 
 ### Installation
 
-If you are installing from source, it is recommended to run this software using Python 3.5 or higher.
-
 ##### Windows
 
 There is a binary (.exe) file for Windows.
@@ -15,11 +13,15 @@ There is a binary (.dmg) file for OS X.
 
 ##### Linux
 
-If you receive an ImportError for Tkinter, you will need to install the python-tk package.
+You will need to install using git. If you receive an ImportError for Tkinter, you will need to install the python-tk package.
 
 ```
 sudo apt-get install python3-tk
 ```
+
+##### Source
+
+If you are installing from source, it is recommended to run this software using Python 3.5 or higher. This application only uses modules in the Python default package.
 
 ### How To Use
 
