@@ -13,7 +13,7 @@ There is a binary (.dmg) file for OS X.
 
 ##### Linux
 
-You will need to install using git. If you receive an ImportError for Tkinter, you will need to install the python-tk package.
+If you receive an ImportError for Tkinter, you will need to install the python-tk package.
 
 ```
 sudo apt-get install python3-tk
