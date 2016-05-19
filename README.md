@@ -25,9 +25,17 @@ If you are installing from source, it is recommended to run this software using 
 
 ### How To Use
 
-##### Metadata
+##### Select CSV File
 
 You must save your metadata file as a .csv file. It must be encoded as UTF-8.
+
+##### Select Location Of Files
+
+
+
+##### Select Archive Destination
+
+
 
 ##### Create ZIP File
 
