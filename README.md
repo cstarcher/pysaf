@@ -21,7 +21,7 @@ sudo apt-get install python3-tk
 
 ##### Source
 
-If you are installing from source, it is recommended to run this software using Python 3.5 or higher. This application only uses modules in the Python default package.
+If you are installing from source, it is recommended to run this software using Python 3.5 or higher. This application only uses modules in the Python Standard Library.
 
 ### How To Use
 
