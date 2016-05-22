@@ -27,12 +27,12 @@ If you receive an ImportError for Tkinter, you will need to install the python-t
 sudo apt-get install python3-tk
 ```
 
-##### Source
+##### Command Line
 
-If you are installing from source, it is recommended to run this software using Python 3.5 or higher. This application only uses modules in the Python Standard Library.
+If you are running this application from the command line, you should install Python version 3.5 or higher. This application only uses modules in the Python Standard Library.
 
 ```
-pip install pysaf
+python3 main.py
 ```
 
 ### How To Use
