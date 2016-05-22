@@ -1,0 +1,1 @@
+v1.0.0, 25.05.2016 -- Initial release.
