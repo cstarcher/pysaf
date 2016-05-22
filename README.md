@@ -9,7 +9,7 @@ There is a 32-bit binary ([pysaf_win32.exe](https://texastechuniversity-my.share
 
 To install, open the pysaf_win32.exe or pysaf_win64.exe file. If you receive an unknown publisher error, select yes to continue the installation.
 
-To run, select PySAF under Programs in the Start Menu. Alternately, you can click the Desktop shortcut if you chose the option to place a shortcut on your Desktop.
+To run, select PySAF under Programs in the Start Menu. Alternately, you can click the Desktop shortcut if you chose the option to create one.
 
 ##### OS X
 
