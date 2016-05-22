@@ -9,7 +9,7 @@ There is a binary (.exe) file for Windows.
 
 ##### OS X
 
-There is a binary (.dmg) file for OS X.
+There is a binary ([pysaf_osx.dmg](https://texastechuniversity-my.sharepoint.com/personal/christopher_starcher_ttu_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=xtCahOezLbJP0JZxz29EsjrqzPsAXCpYsIkzPJfSnsM%3d&docid=0d8680d6eef3d4f519b3e1081b7fd7cd2)) file for OS X.
 
 ##### Linux
 
