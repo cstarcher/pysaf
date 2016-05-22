@@ -7,9 +7,13 @@ PySAF is an application for creating [Simple Archive Format](https://wiki.durasp
 
 There is a binary (.exe) file for Windows.
 
+To install, open the pysaf_win.dmg file. You will receive an error. Select yes and follow the instructions.
+
 ##### OS X
 
-There is a binary ([pysaf_osx.dmg](https://texastechuniversity-my.sharepoint.com/personal/christopher_starcher_ttu_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=xtCahOezLbJP0JZxz29EsjrqzPsAXCpYsIkzPJfSnsM%3d&docid=0d8680d6eef3d4f519b3e1081b7fd7cd2)) file for OS X.
+There is a binary ([pysaf_osx.dmg](https://texastechuniversity-my.sharepoint.com/personal/christopher_starcher_ttu_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=xtCahOezLbJP0JZxz29EsjrqzPsAXCpYsIkzPJfSnsM%3d&docid=0d8680d6eef3d4f519b3e1081b7fd7cd2)) file available for OS X.
+
+To install, open the pysaf_osx.dmg file and copy the application to your Applications folder.
 
 ##### Linux
 
