@@ -21,15 +21,17 @@ To run, click the application in your Applications folder.
 
 ##### Linux
 
+There is no binary package for Linux. You will need to download the source code.
+
 If you receive an ImportError for Tkinter, you will need to install the python-tk package.
 
 ```
 sudo apt-get install python3-tk
 ```
 
-##### Command Line
+##### Source
 
-If you are running this application from the command line, you should install Python version 3.5 or higher. This application only uses modules in the Python Standard Library.
+To execute the source code, you should install Python version 3.5 or higher. This application only uses modules in the Python Standard Library.
 
 ```
 python3 main.py
