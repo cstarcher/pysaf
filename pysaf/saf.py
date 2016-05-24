@@ -119,8 +119,8 @@ class CreateArchive():
 
     def write_license(self, contents_file):
         """Write license information to contents file and write license text to license file."""
-        contents_file.write('{}    bundle:{}'.format(self.license_file,
-                                                     self.license_bundle))
+        contents_file.write('{}' '\t' 'BUNDLE:{}' '\n'.format(self.license_file,
+                                                              self.license_bundle))
         with open('{}'.format(self.license_file), 'w', encoding='utf-8') as license:
             license.write('{}'.format(self.license_text))
 
@@ -129,10 +129,10 @@ class CreateArchive():
         with open('contents', 'a', encoding='utf-8') as contents_file:
             for csv_file_name in data.split('||'):
                 if self.restrict_access:
-                    contents_file.write('{}' '\t' 'permissions:-r {}' '\n'.format(
+                    contents_file.write('{}' '\t' 'BUNDLE:ORIGINAL' '\t' 'permissions:-r {}' '\n'.format(
                         csv_file_name, self.group_name))
                 else:
-                    contents_file.write('{}' '\n'.format(csv_file_name))
+                    contents_file.write('{}' '\t' 'BUNDLE:ORIGINAL' '\n'.format(csv_file_name))
                 for dirpath, dirnames, filenames in os.walk(self.bit_path):
                     for fname in filenames:
                         if csv_file_name == fname:
