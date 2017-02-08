@@ -5,7 +5,7 @@ PySAF is an application for creating [Simple Archive Format](https://wiki.durasp
 
 ##### Windows
 
-There is a binary ([pysaf_win64.exe](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_win64.exe)) available for Windows.
+There is an installer ([pysaf_win64.exe](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_win64.exe)) available for Windows.
 
 To install, open the pysaf_win64.exe file. If you receive an unknown publisher error, select yes to continue the installation.
 
@@ -13,7 +13,7 @@ To run, select PySAF under Programs in the Start Menu. Alternately, you can clic
 
 ##### OS X
 
-There is a binary ([pysaf_osx.dmg](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_osx.dmg)) available for OS X.
+There is an installer ([pysaf_osx.dmg](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_osx.dmg)) available for OS X.
 
 To install, open the pysaf_osx.dmg file and copy the application to your Applications folder.
 
@@ -21,7 +21,7 @@ To run, click the application in your Applications folder.
 
 ##### Linux
 
-There is no binary package for Linux. You will need to download the source code.
+There is no installer package for Linux. You will need to download the source code.
 
 If you receive an ImportError for Tkinter, you will need to install the python-tk package.
 
