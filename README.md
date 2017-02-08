@@ -5,9 +5,9 @@ PySAF is an application for creating [Simple Archive Format](https://wiki.durasp
 
 ##### Windows
 
-There is a 32-bit binary ([pysaf_win32.exe](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_win32.exe)) and a 64-bit binary ([pysaf_win64.exe](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_win64.exe)) for Windows.
+There is a binary ([pysaf_win64.exe](https://bintray.com/cstarcher/pysaf/download_file?file_path=pysaf_win64.exe)) available for Windows.
 
-To install, open the pysaf_win32.exe or pysaf_win64.exe file. If you receive an unknown publisher error, select yes to continue the installation.
+To install, open the pysaf_win64.exe file. If you receive an unknown publisher error, select yes to continue the installation.
 
 To run, select PySAF under Programs in the Start Menu. Alternately, you can click the Desktop shortcut if you chose this option during installation.
 
