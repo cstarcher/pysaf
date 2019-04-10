@@ -5,7 +5,7 @@ PySAF is an application for creating [Simple Archive Format](https://wiki.durasp
 
 ##### Windows
 
-There is an installer ([pysaf_win64.exe](http://bit.ly/2k2WVCo)) available for Windows.
+There is an installer ([pysaf_win64.exe](https://github.com/cstarcher/pysaf/releases/download/v1.0.0/pysaf_win64.exe)) available for Windows.
 
 To install, open the pysaf_win64.exe file. If you receive an unknown publisher error, select yes to continue the installation.
 
@@ -13,7 +13,7 @@ To run, select PySAF under Programs in the Start Menu. Alternately, you can clic
 
 ##### OS X
 
-There is an installer ([pysaf_osx.dmg](http://bit.ly/2k2WVCo)) available for OS X.
+There is an installer ([pysaf_osx.dmg](https://github.com/cstarcher/pysaf/releases/download/v1.0.0/pysaf_osx.dmg)) available for OS X.
 
 To install, open the pysaf_osx.dmg file and copy the application to your Applications folder.
 
