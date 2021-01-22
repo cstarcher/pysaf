@@ -13,7 +13,7 @@ To run, select PySAF under Programs in the Start Menu. Alternately, you can clic
 
 ##### OS X
 
-There is an installer ([pysaf_osx.dmg](https://github.com/cstarcher/pysaf/releases/download/v1.0.0/pysaf_osx.dmg)) available for OS X.
+There is an installer ([pysaf_osx.dmg](https://github.com/cstarcher/pysaf/releases/download/v1.0.0/pysaf_macos.dmg)) available for OS X.
 
 To install, open the pysaf_osx.dmg file and copy the application to your Applications folder.
 
