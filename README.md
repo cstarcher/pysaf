@@ -13,11 +13,39 @@ To run, select PySAF under Programs in the Start Menu. Alternately, you can clic
 
 ##### OS X
 
+###### package
+
 There is an installer ([pysaf_osx.dmg](https://github.com/cstarcher/pysaf/releases/download/v1.0.0/pysaf_macos.dmg)) available for OS X.
 
 To install, open the pysaf_osx.dmg file and copy the application to your Applications folder.
 
 To run, click the application in your Applications folder.
+
+###### manual
+
+- open terminal
+    - press CMD-SPACE and type 'terminal'
+- get the code for PySAF
+```
+clone git@github.com:cstarcher/pysaf.git
+```
+- go to the dir containing main.py
+```
+cd pysaf/pysaf
+```
+- install python-tk
+    - check your version of Python3
+```
+python3 --version
+```
+- install the correct version of python-tk ('YY' is the minor version number you got back from previous command)
+```
+brew install python-tk@3.YY
+```
+- run PySAF
+```
+python3 main.py
+```
 
 ##### Linux
 
