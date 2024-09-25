@@ -29,7 +29,7 @@ class TkError():
         """Report error when Select Archive Destination is empty."""
         tkinter.messagebox.showwarning(
             'Destination Entry Error',
-            'Please forgot to select an Archive Destination.'
+            'Please select an Archive Destination.'
             '\n'
             )
 
